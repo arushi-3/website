@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arushi patel</title>
+    <link>https://example.org/</link>
+    <description>Recent content on arushi patel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jun 2025 16:58:54 +0530</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 29 Jun 2025 16:58:54 +0530</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hello, I am arushi.&#xA;I am a sophomore year &lt;strong&gt;mechanical engineering&lt;/strong&gt; student in &lt;em&gt;Purdue University&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Visit my &lt;a href=&#34;https://www.purdue.edu/&#34;&gt;college website&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
