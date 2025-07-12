@@ -1,0 +1,62 @@
+[[entries]]
+title = "About"
+
+  [[entries.entries]]
+  title = "I'm Arushi, a second-year mechanical engineering student at Purdue University."
+  
+  [[entries.entries]]
+  title = "I love anything hands-on and am always looking for opportunities to learn new things and build my skills."
+
+[[entries]]
+title = "My experiences"
+url = "/posts/my-experiences"
+
+  [[entries.entries]]
+  title = "Mechanical intern at ATI motors"
+    # [[entries.entries.entries]]
+    # title = "[May 2025 - Aug 2025]"
+
+  [[entries.entries]]
+  title = "Undergraduate Teaching Assistant for CS 159"
+    # [[entries.entries.entries]]
+    # title = "[Jan 2025 - Present]"
+
+  [[entries.entries]]
+  title = "Researcher for Purdue EPICS"
+    # [[entries.entries.entries]]
+    # title = "[Aug 2024 - May 2025]"
+
+  [[entries.entries]]
+  title = "Treasurer of Purdue Swim Club"
+    # [[entries.entries.entries]]
+    # title = "[Jan 2025 - Dec 2025]"
+
+[[entries]]
+title = "My projects"
+
+  [entries.post_list]
+  section = "projects"
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "posts by category"
+
+  [entries.post_list]
+  section = "experiences"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "awards"
+
+  [[entries.entries]]
+  title = "Women in Engineering (WIE) scholarship"
+
+  [[entries.entries]]
+  title = "Dean's list and Semester Honors"
+
+    [[entries.entries.entries]]
+    title = "Fall 2024, Spring 2025"

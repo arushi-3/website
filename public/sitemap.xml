@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-second-post/</loc>
-    <lastmod>2025-06-29T17:43:13+05:30</lastmod>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2025-07-12T23:18:19+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/skateboard/</loc>
+    <lastmod>2025-07-12T23:18:19+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-experiences/</loc>
+    <lastmod>2025-07-12T22:34:28+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-12T22:34:28+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/resume/</loc>
+    <lastmod>2025-07-12T16:46:39+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-second-post/</loc>
     <lastmod>2025-06-29T17:43:13+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/my-first-post/</loc>

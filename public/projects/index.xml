@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on arushi patel</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on arushi patel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jul 2025 23:18:19 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skateboard</title>
+      <link>http://localhost:1313/projects/skateboard/</link>
+      <pubDate>Sat, 12 Jul 2025 23:18:19 +0530</pubDate>
+      <guid>http://localhost:1313/projects/skateboard/</guid>
+      <description>&lt;p&gt;As a part of my internship at ATI motors, my project was to build a prototype of an intelligent fork for pallet transportation. &amp;ldquo;Skateboard&amp;rdquo;, is a nickname given to the project.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
