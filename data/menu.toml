@@ -1,32 +1,23 @@
 [[entries]]
-title = "About"
-
-  [[entries.entries]]
-  title = "I'm Arushi, a second-year mechanical engineering student at Purdue University."
-  
-  [[entries.entries]]
-  title = "I love anything hands-on and am always looking for opportunities to learn new things and build my skills."
-
-[[entries]]
 title = "My experiences"
 
   [[entries.entries]]
-  title = "Mechanical intern at ATI motors [May 2025 - Aug 2025]" 
+  title = "Mechanical intern at ATI motors" 
     # [[entries.entries.entries]]
     # title = "[May 2025 - Aug 2025]"
 
   [[entries.entries]]
-  title = "Undergraduate Teaching Assistant for CS 159 [Jan 2025 - Present]"
+  title = "Undergraduate Teaching Assistant for CS 159"
     # [[entries.entries.entries]]
     # title = "[Jan 2025 - Present]"
 
   [[entries.entries]]
-  title = "Design Lead for Purdue EPICS [Aug 2024 - May 2025]"
+  title = "Design Lead for Purdue EPICS"
     # [[entries.entries.entries]]
     # title = "[Aug 2024 - May 2025]"
 
   [[entries.entries]]
-  title = "Treasurer of Purdue Swim Club [Jan 2025 - Dec 2025]"
+  title = "Treasurer of Purdue Swim Club"
     # [[entries.entries.entries]]
     # title = "[Jan 2025 - Dec 2025]"
 
@@ -53,6 +44,3 @@ title = "awards"
   
   [[entries.entries]]
   title = "King Constantine Award for exceptional service"
-
-  [[entries.entries.entries]]
-  title = "the"

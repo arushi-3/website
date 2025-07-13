@@ -6,7 +6,7 @@
     <description>Recent content on arushi patel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jul 2025 09:33:21 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 09:50:34 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skateboard</title>
@@ -21,6 +21,13 @@
       <pubDate>Sun, 13 Jul 2025 09:33:21 +0530</pubDate>
       <guid>http://localhost:1313/projects/mailbox/</guid>
       <description>&lt;p&gt;As a part of Purdue EPICS, a service-led engineering projection, my team and I built a mailbox matching game for the riders at Agape therapeutic riding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Travel Chessboard</title>
+      <link>http://localhost:1313/projects/travel-chessboard/</link>
+      <pubDate>Sun, 13 Jul 2025 09:50:34 +0530</pubDate>
+      <guid>http://localhost:1313/projects/travel-chessboard/</guid>
+      <description>&lt;p&gt;In high school I took Design and Technology AS Level, and for my coursework ideated, designed and built a travel chessboard out of wood, metal, clay and magnets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resume</title>
