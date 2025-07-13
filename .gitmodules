@@ -7,3 +7,9 @@
 [submodule "themes/nostyleplease-"]
 	path = themes/nostyleplease-
 	url = https://github.com/hanwenguo/hugo-theme-nostyleplease
+[submodule "themes/ananke-"]
+	path = themes/ananke-
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/nostyle"]
+	path = themes/nostyle
+	url = https://github.com/hanwenguo/hugo-theme-nostyleplease
