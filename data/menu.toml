@@ -9,25 +9,24 @@ title = "About"
 
 [[entries]]
 title = "My experiences"
-url = "/posts/my-experiences"
 
   [[entries.entries]]
-  title = "Mechanical intern at ATI motors"
+  title = "Mechanical intern at ATI motors [May 2025 - Aug 2025]" 
     # [[entries.entries.entries]]
     # title = "[May 2025 - Aug 2025]"
 
   [[entries.entries]]
-  title = "Undergraduate Teaching Assistant for CS 159"
+  title = "Undergraduate Teaching Assistant for CS 159 [Jan 2025 - Present]"
     # [[entries.entries.entries]]
     # title = "[Jan 2025 - Present]"
 
   [[entries.entries]]
-  title = "Researcher for Purdue EPICS"
+  title = "Design Lead for Purdue EPICS [Aug 2024 - May 2025]"
     # [[entries.entries.entries]]
     # title = "[Aug 2024 - May 2025]"
 
   [[entries.entries]]
-  title = "Treasurer of Purdue Swim Club"
+  title = "Treasurer of Purdue Swim Club [Jan 2025 - Dec 2025]"
     # [[entries.entries.entries]]
     # title = "[Jan 2025 - Dec 2025]"
 
@@ -41,15 +40,6 @@ title = "My projects"
   show_more_url = "posts"
 
 [[entries]]
-title = "posts by category"
-
-  [entries.post_list]
-  section = "experiences"
-  show_more = true
-  show_more_text = "See more posts..."
-  show_more_url = "posts"
-
-[[entries]]
 title = "awards"
 
   [[entries.entries]]
@@ -60,3 +50,9 @@ title = "awards"
 
     [[entries.entries.entries]]
     title = "Fall 2024, Spring 2025"
+  
+  [[entries.entries]]
+  title = "King Constantine Award for exceptional service"
+
+  [[entries.entries.entries]]
+  title = "the"
