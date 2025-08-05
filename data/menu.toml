@@ -31,7 +31,7 @@ title = "My projects"
   show_more_url = "posts"
 
 [[entries]]
-title = "awards"
+title = "Awards"
 
   [[entries.entries]]
   title = "Women in Engineering (WIE) scholarship"

@@ -7,5 +7,6 @@ weight = 1
 
 In the Summer of 2025, during my internship at ATI motors, I built a prototype of an intelligent fork for pallet transportation. "Skateboard" is a nickname given to the project. 
 
+    
 
 
