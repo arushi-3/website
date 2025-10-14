@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on arushi patel</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>http://localhost:1313/website/projects/</link>
     <description>Recent content in Projects on arushi patel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Jul 2025 09:50:34 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/website/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skateboard</title>
-      <link>http://localhost:1313/projects/skateboard/</link>
+      <link>http://localhost:1313/website/projects/skateboard/</link>
       <pubDate>Sat, 12 Jul 2025 23:18:19 +0530</pubDate>
-      <guid>http://localhost:1313/projects/skateboard/</guid>
+      <guid>http://localhost:1313/website/projects/skateboard/</guid>
       <description>&lt;p&gt;In the Summer of 2025, during my internship at ATI motors, I built a prototype of an intelligent fork for pallet transportation. &amp;ldquo;Skateboard&amp;rdquo; is a nickname given to the project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mailbox  matching game</title>
-      <link>http://localhost:1313/projects/mailbox/</link>
+      <link>http://localhost:1313/website/projects/mailbox/</link>
       <pubDate>Sun, 13 Jul 2025 09:33:21 +0530</pubDate>
-      <guid>http://localhost:1313/projects/mailbox/</guid>
+      <guid>http://localhost:1313/website/projects/mailbox/</guid>
       <description>&lt;p&gt;As a part of Purdue EPICS, a service-led engineering projection, my team and I built a mailbox matching game for the riders at Agape therapeutic riding.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Travel Chessboard</title>
-      <link>http://localhost:1313/projects/travel-chessboard/</link>
+      <link>http://localhost:1313/website/projects/travel-chessboard/</link>
       <pubDate>Sun, 13 Jul 2025 09:50:34 +0530</pubDate>
-      <guid>http://localhost:1313/projects/travel-chessboard/</guid>
-      <description>&lt;p&gt;In high school, for my Design and Technology AS Level coursework project, I ideated, designed and built a travel chessboard out of wood, metal, clay and magnets.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/files/Sketches-chessboard.jpg&#34; alt=&#34;Sketch&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I interviewed five different people from age groups ranging from pre-teen to adult, and I chose my brother, Advay&amp;rsquo;s challenge, who had been struggling with playing chess on the school bus.&lt;/p&gt;&#xA;&lt;p&gt;He needed an efficient way to story chess pieces when they were not on the chessboard.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/website/projects/travel-chessboard/</guid>
+      <description>&lt;p&gt;In high school, for my Design and Technology AS Level coursework project, I ideated, designed and built a travel chessboard out of wood, metal, clay and magnets.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/website/files/Sketches-chessboard.jpg&#34; alt=&#34;Sketch&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I interviewed five different people from age groups ranging from pre-teen to adult, and I chose my brother, Advay&amp;rsquo;s challenge, who had been struggling with playing chess on the school bus.&lt;/p&gt;&#xA;&lt;p&gt;He needed an efficient way to story chess pieces when they were not on the chessboard.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

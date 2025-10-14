@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/skateboard/</loc>
+    <loc>http://localhost:1313/website/projects/skateboard/</loc>
     <lastmod>2025-07-12T23:18:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/mailbox/</loc>
+    <loc>http://localhost:1313/website/projects/mailbox/</loc>
     <lastmod>2025-07-13T09:33:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/travel-chessboard/</loc>
+    <loc>http://localhost:1313/website/projects/travel-chessboard/</loc>
     <lastmod>2025-07-13T09:50:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/website/projects/</loc>
     <lastmod>2025-07-13T09:50:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experiences/</loc>
+    <loc>http://localhost:1313/website/experiences/</loc>
     <lastmod>2025-07-13T09:16:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/website/posts/</loc>
     <lastmod>2025-07-12T16:46:39+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/resume/</loc>
+    <loc>http://localhost:1313/website/posts/resume/</loc>
     <lastmod>2025-07-12T16:46:39+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-second-post/</loc>
+    <loc>http://localhost:1313/website/posts/my-second-post/</loc>
     <lastmod>2025-06-29T17:43:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/website/posts/my-first-post/</loc>
     <lastmod>2025-06-29T16:58:54+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/website/</loc>
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/website/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/website/tags/</loc>
   </url>
 </urlset>
