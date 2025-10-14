@@ -1,7 +1,7 @@
 baseURL = "https://arushi-3.github.io/website/"
 languageCode = "en-us"
-title = 'arushi patel'
-theme = 'nostyle'
+title = "arushi patel"
+theme = "nostyle"
 
 [module]
   [module.hugoVersion]

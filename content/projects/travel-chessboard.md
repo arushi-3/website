@@ -22,11 +22,11 @@ I built three different prototypes to validate my ideas.
 
 <img src="/files/Proto1-chessboard.jpg" alt="Sketch" style="width:60%">
 
-![Sketch](/files/Proto1-chessboard.jpg)
+![Sketch](files/Proto1-chessboard.jpg)
 [picture of prototype 1]
-![Sketch](/files/Proto2-chessboard.jpg)
+![Sketch](files/Proto2-chessboard.jpg)
 [picture of prototype 2]
-![Sketch](/files/Proto3-chessboard.jpg)
+![Sketch](files/Proto3-chessboard.jpg)
 [picture of prototype 3]
 
 I modified many things through the prototyping process, including the storage system and the size.
@@ -37,4 +37,4 @@ Following this, to understand how the hinge mechanism in my final product would 
 
 I then created a production plan, estimated the amount of time it would take me, and CAD sketches of the design.
 
-![Exploded view of CAD](/files/ExplodedCAD-chessboard.png)
+![Exploded view of CAD](files/ExplodedCAD-chessboard.png)
