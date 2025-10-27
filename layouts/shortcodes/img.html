@@ -1,1 +1,9 @@
-<img src='{{ (.Get "src") | relURL }}' alt='{{ .Get "alt" }}' loading="lazy">
+<img
+  src='{{ (.Get "src") | relURL }}'
+  alt='{{ .Get "alt" }}'
+  style='
+    {{- with .Get "width" }}width:{{.}};{{ end }}
+    {{- with .Get "height" }}height:{{.}};{{ end }}
+  '
+  loading="lazy"
+/>
