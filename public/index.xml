@@ -13,14 +13,7 @@
       <link>http://localhost:1313/website/projects/skateboard/</link>
       <pubDate>Sat, 12 Jul 2025 23:18:19 +0530</pubDate>
       <guid>http://localhost:1313/website/projects/skateboard/</guid>
-      <description>&lt;p&gt;In the Summer of 2025, during my internship at ATI motors, I built a prototype of an intelligent fork for pallet transportation. &amp;ldquo;Skateboard&amp;rdquo; is a nickname given to the project.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mailbox  matching game</title>
-      <link>http://localhost:1313/website/projects/mailbox/</link>
-      <pubDate>Sun, 13 Jul 2025 09:33:21 +0530</pubDate>
-      <guid>http://localhost:1313/website/projects/mailbox/</guid>
-      <description>&lt;p&gt;As a part of Purdue EPICS, a service-led engineering projection, my team and I built a mailbox matching game for the riders at Agape therapeutic riding.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In the Summer of 2025, during my internship at ATI motors, I built a prototype of an intelligent fork for pallet transportation. &amp;ldquo;Skateboard&amp;rdquo; is a nickname given to the project.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/website/website/files/Final-skateboard.jpg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:60%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;The skateboard’s key advantage over pallet movers and similar machines is its ability to move omnidirectionally and perform zero-radius turns. This increases positional accuracy and could potentially save time and space. It would also use an electronic differential rather than a mechanical one, which is more compact and precise.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Travel Chessboard</title>
@@ -28,6 +21,13 @@
       <pubDate>Sun, 13 Jul 2025 09:50:34 +0530</pubDate>
       <guid>http://localhost:1313/website/projects/travel-chessboard/</guid>
       <description>&lt;p&gt;In high school, for my Design and Technology AS Level coursework project, I ideated, designed and built a travel chessboard out of wood, metal, clay and magnets.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/website/website/files/Sketches-chessboard.jpg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;To choose my user, I interviewed five different people from age groups ranging from pre-teen to adult. In the end, I chose my brother, Advay, who had been struggling with playing chess on the school bus.&lt;/p&gt;&#xA;&lt;p&gt;He needed an efficient way to story chess pieces when they were not on the chessboard.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mailbox  matching game</title>
+      <link>http://localhost:1313/website/projects/mailbox/</link>
+      <pubDate>Sun, 13 Jul 2025 09:33:21 +0530</pubDate>
+      <guid>http://localhost:1313/website/projects/mailbox/</guid>
+      <description>&lt;p&gt;As a part of Purdue EPICS, a service-led engineering projection, my team and I built a mailbox matching game for the riders at Agape therapeutic riding.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resume</title>

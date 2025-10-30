@@ -2,7 +2,7 @@
 date = '2025-07-13T09:50:34+05:30'
 draft = false
 title = 'Travel Chessboard'
-weight = 3
+weight = 2
 +++
 
 In high school, for my Design and Technology AS Level coursework project, I ideated, designed and built a travel chessboard out of wood, metal, clay and magnets. 
@@ -15,7 +15,7 @@ He needed an efficient way to story chess pieces when they were not on the chess
 
 Some features of my design were- 
  1. The user can store their pieces in two different places 
- 2. Smoother gampeplay because the design relies on magnets
+ 2. Smoother gampeplay because the design relies on magnets on the base of the board
  3. The board folds in half so it fits easily in a school bag
 
 I built three different prototypes to validate my ideas. 
