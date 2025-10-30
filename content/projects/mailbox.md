@@ -5,7 +5,5 @@ title = 'Mailbox  matching game'
 weight = 3
 +++
 
-As a part of Purdue EPICS, a service-led engineering projection, my team and I built a mailbox matching game for the riders at Agape therapeutic riding. 
-
 TEST
 
