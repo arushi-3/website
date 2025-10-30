@@ -1,0 +1,6 @@
+<div style="text-align: center;">
+  <video controls style="width:{{ .Get "width" | default "100%" }}; display:inline-block;" playsinline>
+    <source src='{{ .Get "src" | relURL }}' type="video/mp4">
+    {{ .Get "alt" | default "Your browser does not support the video tag." }}
+  </video>
+</div>
