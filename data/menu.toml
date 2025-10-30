@@ -1,5 +1,5 @@
 [[entries]]
-title = "My experiences"
+title = "Experiences"
 
   [[entries.entries]]
   title = "Mechanical intern at ATI motors" 
@@ -25,7 +25,7 @@ title = "My experiences"
     # title = "[Jan 2025 - Dec 2025]"
 
 [[entries]]
-title = "My projects"
+title = "Projects"
 
   [entries.post_list]
   section = "projects"

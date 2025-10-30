@@ -1,8 +1,8 @@
 +++
 date = '2025-10-30T11:40:58-04:00'
 draft = false
-title = 'Mailbox Matching Game - Purdue EPICS'
-weight = 4
+title = 'Mailbox Matching Game'
+weight = 3
 +++
 
 As a part of Purdue EPICS, a service-led engineering projection, my team and I built a mailbox matching game for the riders at Agape therapeutic riding. 
