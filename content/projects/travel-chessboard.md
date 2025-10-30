@@ -59,6 +59,3 @@ The final product-
 
 Finally, I tested and evaluated the product in its intended environment.
 {{< img src="files/Testing-chessboard.jpg" alt="Sketch" width="70%">}}
-
-
-
