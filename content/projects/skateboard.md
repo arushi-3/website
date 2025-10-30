@@ -24,3 +24,35 @@ To fit the existing setup, I designed my own GT2 pulleys, and other parts for th
 {{< img src="files/Unit-skateboard.png" alt="Sketch" width="90%">}}
 
 Through this process, I learnt how to CAD sheet metal parts, and got many of my designs laser cut and welded. 
+
+After designing the complete assembly and sending parts to either get manufactured or 3D printed, I worked on the electronics. 
+
+{{< img src="files/Assembly-skateboard.png" alt="Sketch" width="80%">}}
+
+The circuit consisted of a stack of an Arduino and two Motor Driver Shields that powered and controlled the 4 motors using data from Quadrature Encoders. I wrote a PID-based code, that monitored ticks and position of the wheels' rotations. 
+
+Then, I started exploring different methods to communicate with the microcontroller system. My options were- 
+1. Blynk (an IOT platform)
+2. MQTT
+3. Wi-Fi communication over a flask server 
+
+I chose the third option and ran a webserver on my laptop to control the Arduino with an ESP32. To validate my code and set up, I created a test bench with the motors and all electronic components.
+
+{{< img src="files/Bench-skateboard.jpg" alt="Sketch" width="80%">}}
+
+I then moved on to assembling all the parts, which had been manufactured by this time. During this process, I realized that the foam board was to weak to hold the weight of the motors. So, I cut and drilled holes into a piece of scrap metal instead.  
+
+{{< img src="files/Wheels-skateboard.jpg" alt="Sketch" width="80%">}}
+{{< img src="files/Final2-skateboard.jpeg" alt="Sketch" width="80%">}}
+
+I faced some issues with the 3D printed parts breaking, but after some changes and reprinting, I was able to run it on the ground and test my code and other ideas. 
+
+VIDEO
+
+With the design approved, I moved on to getting all the parts manufactured using metal. This meant modifying some of the designs for better manufacturability. 
+
+{{< img src="files/Laser-skateboard.png" alt="Sketch" width="60%">}}
+
+{{< img src="files/Final3-skateboard.jpg" alt="Sketch" width="60%">}}
+
+I was not able to do much more because my internship came to an end. However, over the 3 months working at ATI Motors, I enjoyed the learning process and it was gratifying to see the working final product. I look forward to taking up more challenging and interesting projects like this!
