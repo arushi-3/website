@@ -47,7 +47,7 @@ I then moved on to assembling all the parts, which had been manufactured by this
 
 I faced some issues with the 3D printed parts breaking, but after some changes and reprinting, I was able to run it on the ground and test my code and other ideas. 
 
-VIDEO
+{{< video src="files/Video-skateboard.mp4" alt="Sketch video" width="80%" >}}
 
 With the design approved, I moved on to getting all the parts manufactured using metal. This meant modifying some of the designs for better manufacturability. 
 
