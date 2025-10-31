@@ -52,5 +52,5 @@ Once we put everything together, we were able to deliver the project at the comm
 {{< img src="files/Delivery2-mailbox.jpeg" alt="Sketch" width="60%">}}
 {{< img src="files/Delivery1-mailbox.jpeg" alt="Sketch" width="60%">}}
 
-I am no longer a part of Purdue EPICS, but this project, which spanned my freshman year in college, taught me more about research, collaboration, and community service. 
+I am no longer a part of Purdue EPICS, but this project, which spanned my freshman year in college, taught me a lot about research, collaboration, and community service. 
 

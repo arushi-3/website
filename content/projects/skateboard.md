@@ -5,6 +5,8 @@ title = 'Robot for Pallet Transportation (Skateboard)'
 weight = 1
 +++
 
+##### Goal of the project 
+
 In the Summer of 2025, during my internship at ATI motors, I built a prototype of an intelligent fork for pallet transportation. "Skateboard" is a nickname given to the project. 
 
 {{< img src="files/Final-skateboard.jpg" alt="Sketch" width="60%">}}
@@ -13,12 +15,7 @@ The skateboard’s key advantage over pallet movers and similar machines is its 
 
 For this project, I used Onshape for CAD work, SimScale for FEA analysis, and the Arduino IDE for hardware tasks. Most of the parts were either 3D print, laser cut, or machined. 
 
-Before I began, some components like the motors, encoders, pulleys, and microcontrollers had already been selected. I was also given the following the design constraints- 
-1. Test the motor before beginning designing and assembly
-2. Make the unit as compact as possible 
-3. Use 80 mm diameter wheels 
-
-To fit the existing setup, I designed my own GT2 pulleys, and other parts for the electronic differential unit. 
+Before I began, some components like the motors, encoders, pulleys, and microcontrollers had already been selected by the company. To fit the given constraints, I designed my own GT2 pulleys, and other parts for the electronic differential unit. 
 
 {{< img src="files/Pulley-skateboard.png" alt="Sketch" width="30%">}}
 {{< img src="files/Unit-skateboard.png" alt="Sketch" width="90%">}}
@@ -55,4 +52,4 @@ With the design approved, I moved on to getting all the parts manufactured using
 
 {{< img src="files/Final3-skateboard.jpg" alt="Sketch" width="60%">}}
 
-I was not able to do much more because my internship came to an end. However, over the 3 months working at ATI Motors, I enjoyed the learning process and it was gratifying to see the working final product. I look forward to taking up more challenging and interesting projects like this!
+This was the outcome of 3 months of work at ATI Motors and the company has mentioned a plan to continue my work into an actual product. I enjoyed the learning process and it was gratifying to see the working final product. I look forward to taking up more challenging and interesting projects like this!
