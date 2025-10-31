@@ -1,7 +1,7 @@
 +++
 date = '2025-07-12T23:18:19+05:30'
 draft = false
-title = 'Skateboard'
+title = 'Robot for Pallet Transportation (Skateboard)'
 weight = 1
 +++
 
