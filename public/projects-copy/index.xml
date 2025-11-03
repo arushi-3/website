@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects Copies on arushi patel</title>
+    <link>http://localhost:1313/website/projects-copy/</link>
+    <description>Recent content in Projects Copies on arushi patel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Oct 2025 11:40:58 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/website/projects-copy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Purdue EPICS - Shape-Sorter (Mailbox) Game</title>
+      <link>http://localhost:1313/website/projects-copy/epics/</link>
+      <pubDate>Thu, 30 Oct 2025 11:40:58 -0400</pubDate>
+      <guid>http://localhost:1313/website/projects-copy/epics/</guid>
+      <description>&lt;p&gt;As a part of Purdue EPICS, a service-led engineering projection, my team and I built a shape sorting game for the riders at Agape therapeutic riding.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/website/website/files/Team-mailbox.jpeg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:70%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;We were inspired by the childhood shape-sorter game, that helps develop motor skills and hand-eye coordination.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/website/website/files/Inspiration-mailbox.png&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:70%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;Agape serves individuals and groups of all ages who have physical, emotional, cognitive, or social disabilities through various equine-assisted programs and we wanted to design and build a game/incentive for their younger riders.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -6,14 +6,21 @@
     <description>Recent content on arushi patel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Oct 2025 11:40:58 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 00:21:04 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Purdue ROV (Remotely Operated Underwater Vehicle)</title>
+      <link>http://localhost:1313/website/current_projects/rov/</link>
+      <pubDate>Mon, 03 Nov 2025 00:21:04 -0500</pubDate>
+      <guid>http://localhost:1313/website/current_projects/rov/</guid>
+      <description>&lt;p&gt;This semester I joined the Purdue ROV team. This student-led team builds an underwater robot that performs tasks to protect the ocean&amp;rsquo;s ecosystem. These tasks are stuipulated by the MATE ROV competition, a yearly World Championship that we take part in over the summer.&lt;/p&gt;&#xA;&lt;p&gt;This year, the competition is in Newfoundland &amp;amp; Labrador, Canada and to go with the theme with the location, our robot should be able to handle low temperatures in an ice tank, high water velocities in a flume tank, and saltwater in an offshore engineering basin.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Robot for Pallet Transportation (Skateboard)</title>
       <link>http://localhost:1313/website/projects/skateboard/</link>
       <pubDate>Sat, 12 Jul 2025 23:18:19 +0530</pubDate>
       <guid>http://localhost:1313/website/projects/skateboard/</guid>
-      <description>&lt;h5 id=&#34;goal-of-the-project&#34;&gt;Goal of the project&lt;/h5&gt;&#xA;&lt;p&gt;In the Summer of 2025, during my internship at ATI motors, I built a prototype of an intelligent fork for pallet transportation. &amp;ldquo;Skateboard&amp;rdquo; is a nickname given to the project.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/website/website/files/Final-skateboard.jpg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:60%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;The skateboard’s key advantage over pallet movers and similar machines is its ability to move omnidirectionally and perform zero-radius turns. This increases positional accuracy and could potentially save time and space. It would also use an electronic differential rather than a mechanical one, which is more compact and precise.&lt;/p&gt;</description>
+      <description>&lt;h5 id=&#34;goal-of-the-project&#34;&gt;Goal of the project&lt;/h5&gt;&#xA;&lt;p&gt;In the Summer of 2025, during my internship at ATI Motors, I built a prototype of an intelligent fork for pallet transportation. &amp;ldquo;Skateboard&amp;rdquo; is a nickname given to the project.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/website/website/files/Final-skateboard.jpg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:60%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;The skateboard’s key advantage over pallet movers and similar machines is its ability to move omnidirectionally and perform zero-radius turns. This increases positional accuracy and could potentially save time and space. It would also use an electronic differential rather than a mechanical one, which is more compact and precise.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Travel Chessboard</title>
@@ -23,11 +30,11 @@
       <description>&lt;p&gt;In high school, for my Design and Technology AS Level coursework project, I ideated, designed and built a travel chessboard out of wood, metal, clay and magnets.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/website/website/files/Sketches-chessboard.jpg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;To choose my user, I interviewed five different people from age groups ranging from pre-teen to adult. In the end, I chose my brother, Advay, who had been struggling with playing chess on the school bus.&lt;/p&gt;&#xA;&lt;p&gt;He needed an efficient way to story chess pieces when they were not on the chessboard.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mailbox Matching Game</title>
+      <title>Purdue EPICS - Shape-Sorter (Mailbox) Game</title>
       <link>http://localhost:1313/website/projects/epics/</link>
       <pubDate>Thu, 30 Oct 2025 11:40:58 -0400</pubDate>
       <guid>http://localhost:1313/website/projects/epics/</guid>
-      <description>&lt;p&gt;As a part of Purdue EPICS, a service-led engineering projection, my team and I built a mailbox matching game for the riders at Agape therapeutic riding.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/website/website/files/Team-mailbox.jpeg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:70%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;We were inspired by the childhood shape-sorter game, that helps develop motor skills and hand-eye coordination.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/website/website/files/Inspiration-mailbox.png&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:70%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;Agape serves individuals and groups of all ages who have physical, emotional, cognitive, or social disabilities through various equine-assisted programs and we wanted to design and build a game/incentive for their younger riders.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As a part of Purdue EPICS, a service-learning engineering projection, my team and I built a shape-sorting game for the riders at Agape therapeutic riding.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/website/website/files/Team-mailbox.jpeg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:70%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;We were inspired by the childhood shape-sorter game that helps develop motor skills and hand-eye coordination.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/website/website/files/Inspiration-mailbox.png&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:70%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;Agape serves individuals and groups of all ages who have physical, emotional, cognitive, or social disabilities through various equine-assisted programs and we wanted to design and build a game/incentive for their younger riders.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resume</title>

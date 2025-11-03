@@ -7,26 +7,30 @@ weight = 1
 
 ##### Goal of the project 
 
-In the Summer of 2025, during my internship at ATI motors, I built a prototype of an intelligent fork for pallet transportation. "Skateboard" is a nickname given to the project. 
+In the Summer of 2025, during my internship at ATI Motors, I built a prototype of an intelligent fork for pallet transportation. "Skateboard" is a nickname given to the project. 
 
 {{< img src="files/Final-skateboard.jpg" alt="Sketch" width="60%">}}
 
 The skateboard’s key advantage over pallet movers and similar machines is its ability to move omnidirectionally and perform zero-radius turns. This increases positional accuracy and could potentially save time and space. It would also use an electronic differential rather than a mechanical one, which is more compact and precise. 
 
-For this project, I used Onshape for CAD work, SimScale for FEA analysis, and the Arduino IDE for hardware tasks. Most of the parts were either 3D print, laser cut, or machined. 
+##### Design Process   
 
-Before I began, some components like the motors, encoders, pulleys, and microcontrollers had already been selected by the company. To fit the given constraints, I designed my own GT2 pulleys, and other parts for the electronic differential unit. 
+For this project, I used Onshape for CAD work, SimScale for FEA analysis, and the Arduino IDE for hardware tasks. Most of the parts were either 3D printed, laser cut, or machined. 
+
+Before I began, some components like the motors, encoders, pulleys, and microcontrollers had already been selected by the company. To fit the given constraints, I designed my own GT2 pulleys and other parts for the electronic differential unit. 
 
 {{< img src="files/Pulley-skateboard.png" alt="Sketch" width="30%">}}
 {{< img src="files/Unit-skateboard.png" alt="Sketch" width="90%">}}
 
-Through this process, I learnt how to CAD sheet metal parts, and got many of my designs laser cut and welded. 
+Through this process, I learned how to CAD sheet metal parts, and got many of my designs laser cut and welded. 
+
+##### Electronics and Test Bench
 
 After designing the complete assembly and sending parts to either get manufactured or 3D printed, I worked on the electronics. 
 
 {{< img src="files/Assembly-skateboard.png" alt="Sketch" width="80%">}}
 
-The circuit consisted of a stack of an Arduino and two Motor Driver Shields that powered and controlled the 4 motors using data from Quadrature Encoders. I wrote a PID-based code, that monitored ticks and position of the wheels' rotations. 
+The circuit consisted of a stack of an Arduino and two Motor Driver Shields that powered and controlled the 4 motors using data from Quadrature Encoders. I wrote a PID-based program, that monitored ticks and position of the wheels' rotations. 
 
 Then, I started exploring different methods to communicate with the microcontroller system. My options were- 
 1. Blynk (an IOT platform)
@@ -37,7 +41,9 @@ I chose the third option and ran a webserver on my laptop to control the Arduino
 
 {{< img src="files/Bench-skateboard.jpg" alt="Sketch" width="80%">}}
 
-I then moved on to assembling all the parts, which had been manufactured by this time. During this process, I realized that the foam board was to weak to hold the weight of the motors. So, I cut and drilled holes into a piece of scrap metal instead.  
+##### Assembly
+
+I then moved on to assembling all the parts, which had been manufactured by this time. During this process, I realized that the foam board was too weak to hold the weight of the motors. So, I cut and drilled holes into a piece of scrap metal instead.  
 
 {{< img src="files/Wheels-skateboard.jpg" alt="Sketch" width="80%">}}
 {{< img src="files/Final2-skateboard.jpeg" alt="Sketch" width="80%">}}
@@ -52,4 +58,4 @@ With the design approved, I moved on to getting all the parts manufactured using
 
 {{< img src="files/Final3-skateboard.jpg" alt="Sketch" width="60%">}}
 
-This was the outcome of 3 months of work at ATI Motors and the company has mentioned a plan to continue my work into an actual product. I enjoyed the learning process and it was gratifying to see the working final product. I look forward to taking up more challenging and interesting projects like this!
+This was the outcome of three months of work at ATI Motors, and the company has mentioned plans to continue developing my work into an actual product. I truly enjoyed the learning process, and it was gratifying to see the final product come to life. I look forward to taking on more challenging and interesting projects like this!

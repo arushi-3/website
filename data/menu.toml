@@ -25,6 +25,12 @@ title = "Experiences"
     # title = "[Jan 2025 - Dec 2025]"
 
 [[entries]]
+title = "Current Projects"
+
+  [entries.post_list]
+  section = "current_projects"
+
+[[entries]]
 title = "Projects"
 
   [entries.post_list]

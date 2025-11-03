@@ -8,11 +8,17 @@
     <loc>http://localhost:1313/website/projects/travel-chessboard/</loc>
     <lastmod>2025-07-13T09:50:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/projects/mailbox/</loc>
-    <lastmod>2025-07-13T09:33:21+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/website/projects/epics/</loc>
     <lastmod>2025-10-30T11:40:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/current_projects/</loc>
+    <lastmod>2025-11-03T01:09:10-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/current_projects/sophomore_design/</loc>
+    <lastmod>2025-11-03T01:09:10-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/current_projects/rov/</loc>
+    <lastmod>2025-11-03T00:21:04-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/projects/</loc>
     <lastmod>2025-10-30T11:40:58-04:00</lastmod>
