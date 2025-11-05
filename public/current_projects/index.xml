@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Current_projects on arushi patel</title>
-    <link>http://localhost:1313/website/current_projects/</link>
+    <link>http://localhost:1313/current_projects/</link>
     <description>Recent content in Current_projects on arushi patel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Nov 2025 01:09:10 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/website/current_projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sophomore Design - Desk Organizer</title>
-      <link>http://localhost:1313/website/current_projects/sophomore_design/</link>
-      <pubDate>Mon, 03 Nov 2025 01:09:10 -0500</pubDate>
-      <guid>http://localhost:1313/website/current_projects/sophomore_design/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 00:21:04 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/current_projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Purdue ROV (Remotely Operated Underwater Vehicle)</title>
-      <link>http://localhost:1313/website/current_projects/rov/</link>
+      <link>http://localhost:1313/current_projects/rov/</link>
       <pubDate>Mon, 03 Nov 2025 00:21:04 -0500</pubDate>
-      <guid>http://localhost:1313/website/current_projects/rov/</guid>
-      <description>&lt;p&gt;This semester I joined the Purdue ROV team. This student-led team builds an Underwater Robot that performs tasks to protect the ocean&amp;rsquo;s ecosystem. These tasks are stuipulated by the MATE ROV competition, a yearly World Championship that we take part in over the summer.&lt;/p&gt;&#xA;&lt;p&gt;This year, the competition is in Newfoundland &amp;amp; Labrador, Canada and to go with the theme with the location, our robot should be able to handle low temperatures in an ice tank, high water velocities in a flume tank, and saltwater in an offshore engineering basin.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/current_projects/rov/</guid>
+      <description>&lt;p&gt;This semester I joined the Purdue ROV team. This student-led team builds an underwater robot that performs tasks to protect the ocean&amp;rsquo;s ecosystem. These tasks are stuipulated by the MATE ROV competition, a yearly World Championship that we take part in over the summer.&lt;/p&gt;&#xA;&lt;p&gt;This year, the competition is in Newfoundland &amp;amp; Labrador, Canada and to go with the theme of the location, our robot should be able to handle low temperatures in an ice tank, high water velocities in a flume tank, and saltwater in an offshore engineering basin.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
