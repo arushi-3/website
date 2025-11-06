@@ -4,9 +4,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
    <meta name="description" content="Goal of the project
-In the Summer of 2025, during my internship at ATI Motors, I built a prototype of an intelligent fork for pallet transportation. &ldquo;Skateboard&rdquo; is a nickname given to the project.
+In the summer of 2025, during my internship at ATI Motors, I built a prototype of an intelligent fork for pallet transportation. &ldquo;Skateboard&rdquo; was the nickname given to the project.
 
-The skateboard’s key advantage over pallet movers and similar machines is its ability to move omnidirectionally and perform zero-radius turns. This increases positional accuracy and could potentially save time and space. It would also use an electronic differential rather than a mechanical one, which is more compact and precise.">  
+The skateboard’s key advantage over pallet movers and similar machines is its ability to move omnidirectionally and perform zero-radius turns. This increases positional accuracy and could potentially save time and space. It also uses an electronic differential rather than a mechanical one, which is more compact and precise.">  
 
   <title>
     
@@ -33,8 +33,8 @@ The skateboard’s key advantage over pallet movers and similar machines is its 
 
     
 
-    <h5 id="goal-of-the-project">Goal of the project</h5>
-<p>In the Summer of 2025, during my internship at ATI Motors, I built a prototype of an intelligent fork for pallet transportation. &ldquo;Skateboard&rdquo; is a nickname given to the project.</p>
+    <h4 id="goal-of-the-project">Goal of the project</h4>
+<p>In the summer of 2025, during my internship at ATI Motors, I built a prototype of an intelligent fork for pallet transportation. &ldquo;Skateboard&rdquo; was the nickname given to the project.</p>
 <img
   src='/files/Final-skateboard.jpg'
   alt='Sketch'
@@ -42,10 +42,10 @@ The skateboard’s key advantage over pallet movers and similar machines is its 
   '
   loading="lazy"
 />
-<p>The skateboard’s key advantage over pallet movers and similar machines is its ability to move omnidirectionally and perform zero-radius turns. This increases positional accuracy and could potentially save time and space. It would also use an electronic differential rather than a mechanical one, which is more compact and precise.</p>
-<h5 id="design-process">Design Process</h5>
-<p>For this project, I used Onshape for CAD work, SimScale for FEA analysis, and the Arduino IDE for hardware tasks. Most of the parts were either 3D printed, laser cut, or machined.</p>
-<p>Before I began, some components like the motors, encoders, pulleys, and microcontrollers had already been selected by the company. To fit the given constraints, I designed my own GT2 pulleys and other parts for the electronic differential unit.</p>
+<p>The skateboard’s key advantage over pallet movers and similar machines is its ability to move omnidirectionally and perform zero-radius turns. This increases positional accuracy and could potentially save time and space. It also uses an electronic differential rather than a mechanical one, which is more compact and precise.</p>
+<h4 id="design-process">Design Process</h4>
+<p>For this project, I used Onshape for CAD work, SimScale for FEA analysis, and the Arduino IDE for hardware tasks. Most parts were either 3D-printed, laser-cut, or machined.</p>
+<p>Before I began, some components such as the motors, encoders, pulleys, and microcontrollers had already been selected by the company. To fit the given constraints, I designed my own GT2 pulleys and other parts for the electronic differential unit.</p>
 <p><img
   src='/files/Pulley-skateboard.png'
   alt='Sketch'
@@ -60,9 +60,9 @@ The skateboard’s key advantage over pallet movers and similar machines is its 
   '
   loading="lazy"
 /></p>
-<p>Through this process, I learned how to CAD sheet metal parts, and got many of my designs laser cut and welded.</p>
-<h5 id="electronics-and-test-bench">Electronics and Test Bench</h5>
-<p>After designing the complete assembly and sending parts to either get manufactured or 3D printed, I worked on the electronics.</p>
+<p>Through this process, I learned how to model sheet metal parts in CAD and got many of my designs laser-cut and welded.</p>
+<h4 id="electronics-and-test-bench">Electronics and Test Bench</h4>
+<p>After designing the complete assembly and sending parts to be either manufactured or 3D-printed, I worked on the electronics.</p>
 <img
   src='/files/Assembly-skateboard.png'
   alt='Sketch'
@@ -70,14 +70,14 @@ The skateboard’s key advantage over pallet movers and similar machines is its 
   '
   loading="lazy"
 />
-<p>The circuit consisted of a stack of an Arduino and two Motor Driver Shields that powered and controlled the 4 motors using data from Quadrature Encoders. I wrote a PID-based program, that monitored ticks and position of the wheels&rsquo; rotations.</p>
-<p>Then, I started exploring different methods to communicate with the microcontroller system. My options were-</p>
+<p>The circuit consisted of a stack of an Arduino and two motor driver shields that powered and controlled the four motors using data from quadrature encoders. I wrote a PID-based program that monitored the ticks and positions of the wheels’ rotations.</p>
+<p>Then, I started exploring different methods for communicating with the microcontroller system. My options were:</p>
 <ol>
-<li>Blynk (an IOT platform)</li>
+<li>Blynk (an IoT platform)</li>
 <li>MQTT</li>
-<li>Wi-Fi communication over a flask server</li>
+<li>Wi-Fi communication over a Flask server</li>
 </ol>
-<p>I chose the third option and ran a webserver on my laptop to control the Arduino with an ESP32. To validate my code and set up, I created a test bench with the motors and all electronic components.</p>
+<p>I chose the third option and ran a web server on my laptop to control the Arduino with an ESP32. To validate my code and setup, I created a test bench with the motors and all electronic components.</p>
 <img
   src='/files/Bench-skateboard.jpg'
   alt='Sketch'
@@ -85,8 +85,8 @@ The skateboard’s key advantage over pallet movers and similar machines is its 
   '
   loading="lazy"
 />
-<h5 id="assembly">Assembly</h5>
-<p>I then moved on to assembling all the parts, which had been manufactured by this time. During this process, I realized that the foam board was too weak to hold the weight of the motors. So, I cut and drilled holes into a piece of scrap metal instead.</p>
+<h4 id="assembly">Assembly</h4>
+<p>I then moved on to assembling all the parts, which had been manufactured by then. During this process, I realized that the foamboard was too weak to hold the weight of the motors, so I cut and drilled holes into a piece of scrap metal instead.</p>
 <p><img
   src='/files/Wheels-skateboard.jpg'
   alt='Sketch'
@@ -101,7 +101,7 @@ The skateboard’s key advantage over pallet movers and similar machines is its 
   '
   loading="lazy"
 /></p>
-<p>I faced some issues with the 3D printed parts breaking, but after some changes and reprinting, I was able to run it on the ground and test my code and other ideas.</p>
+<p>I faced some issues with the 3D-printed parts breaking, but after some changes and reprinting, I was able to run the prototype on the ground and test my code and other ideas.</p>
 <div style="text-align: center;">
   <video controls style="width:80%; display:inline-block;" playsinline>
     <source src='/files/Video-skateboard.mp4' type="video/mp4">
@@ -109,7 +109,7 @@ The skateboard’s key advantage over pallet movers and similar machines is its 
   </video>
 </div>
 
-<p>With the design approved, I moved on to getting all the parts manufactured using metal. This meant modifying some of the designs for better manufacturability.</p>
+<p>With the design approved, I moved on to getting all parts manufactured in metal. This meant modifying some of the designs for better manufacturability.</p>
 <img
   src='/files/Laser-skateboard.png'
   alt='Sketch'
@@ -124,7 +124,7 @@ The skateboard’s key advantage over pallet movers and similar machines is its 
   '
   loading="lazy"
 />
-<p>This was the outcome of three months of work at ATI Motors, and the company has mentioned plans to continue developing my work into an actual product. I truly enjoyed the learning process, and it was gratifying to see the final product come to life. I look forward to taking on more challenging and interesting projects like this!</p>
+<p>This was the outcome of three months of work at ATI Motors, and the company plans to continue developing my work into an actual product. I truly enjoyed the learning process, and it was gratifying to see the final product come to life. I look forward to taking on more challenging and interesting projects like this!</p>
 
 </article>
 

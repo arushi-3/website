@@ -2,7 +2,7 @@
 title = "Experiences"
 
   [[entries.entries]]
-  title = "Mechanical intern at ATI motors" 
+  title = "Mechanical intern at ATI Motors" 
     # [[entries.entries.entries]]
     # title = "[May 2025 - Aug 2025]"
 
@@ -10,7 +10,7 @@ title = "Experiences"
   title = "Mechanical Team member in Purdue IEEE ROV"
 
   [[entries.entries]]
-  title = "Undergraduate Teaching Assistant for CS 159"
+  title = "Undergraduate Teaching Assistant, CS 159"
     # [[entries.entries.entries]]
     # title = "[Jan 2025 - Present]"
 
@@ -25,13 +25,13 @@ title = "Experiences"
     # title = "[Jan 2025 - Dec 2025]"
 
 [[entries]]
-title = "Current Projects"
+title = "Ongoing Projects"
 
   [entries.post_list]
   section = "current_projects"
 
 [[entries]]
-title = "Projects"
+title = "Past Projects"
 
   [entries.post_list]
   section = "projects"
@@ -43,7 +43,7 @@ title = "Projects"
 title = "Awards"
 
   [[entries.entries]]
-  title = "Women in Engineering (WIE) scholarship"
+  title = "Women in Engineering (WIE) Scholarship"
 
   [[entries.entries]]
   title = "Dean's list and Semester Honors"
