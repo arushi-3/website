@@ -2,10 +2,10 @@
 date = '2025-07-13T09:50:34+05:30'
 draft = false
 title = 'Travel Chessboard'
-weight = 2
+weight = 6
 +++
 
-In high school, for my Design and Technology AS Level coursework project, I ideated, designed and built a travel chessboard out of wood, metal, clay and magnets. 
+**Summary:** In high school, for my Design and Technology AS Level coursework project, I ideated, designed and built a travel chessboard out of wood, metal, clay and magnets. 
 
 {{< img src="files/Sketches-chessboard.jpg" alt="Sketch" >}}
 
@@ -43,9 +43,11 @@ The general manufacturing process I followed was:
 5. Adding the hinges 
 6. Assembling the base and sides 
     - With super glue and other fastening methods 
+    - I chose to use super glue because nails and screws stripped the MDF. 
 {{< img src="files/Fasten-chessboard.jpg" alt="Sketch" width="70%">}}
 
 7. Making and adding finish to the base of the board
+    - This base was a manually machined piece of steel, since it is magnetic.
 {{< img src="files/Base-chessboard.jpg" alt="Sketch" width="70%">}}
 
 8. Making the chess pieces 

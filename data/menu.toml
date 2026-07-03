@@ -1,18 +1,27 @@
 [[entries]]
 title = "Experiences"
-
-  [[entries.entries]]
-  title = "Mechanical intern at ATI Motors" 
     # [[entries.entries.entries]]
     # title = "[May 2025 - Aug 2025]"
 
   [[entries.entries]]
-  title = "Mechanical Team member in Purdue IEEE ROV"
+  title = "Structures Lead in Purdue IEEE ROV" 
+    # [[entries.entries.entries]]
+    # title = "[Aug. 2025 - Present]"
+
+  [[entries.entries]]
+  title = "Undergraduate Researcher in MARS Lab" 
+    # [[entries.entries.entries]]
+    # title = "[Nov. 2025 - Present]"
+
+  [[entries.entries]]
+  title = "Mechanical intern at ATI Motors" 
+    # [[entries.entries.entries]]
+    # title = "[May 2025 - Aug. 2025]"
 
   [[entries.entries]]
   title = "Undergraduate Teaching Assistant, CS 159"
     # [[entries.entries.entries]]
-    # title = "[Jan 2025 - Present]"
+    # title = "[Jan 2025 - Dec. 2025]"
 
   [[entries.entries]]
   title = "Design Lead for Purdue EPICS"
@@ -22,7 +31,7 @@ title = "Experiences"
   [[entries.entries]]
   title = "Treasurer of Purdue Swim Club"
     # [[entries.entries.entries]]
-    # title = "[Jan 2025 - Dec 2025]"
+    # title = "[Jan 2025 - Present]"
 
 [[entries]]
 title = "Ongoing Projects"
@@ -31,7 +40,7 @@ title = "Ongoing Projects"
   section = "current_projects"
 
 [[entries]]
-title = "Past Projects"
+title = "Projects"
 
   [entries.post_list]
   section = "projects"
@@ -43,13 +52,16 @@ title = "Past Projects"
 title = "Awards"
 
   [[entries.entries]]
+  title = "John M. Bruce Memorial Scholarship in Mechanical Engineering"
+
+  [[entries.entries]]
   title = "Women in Engineering (WIE) Scholarship"
 
   [[entries.entries]]
   title = "Dean's list and Semester Honors"
 
     [[entries.entries.entries]]
-    title = "Fall 2024 (4.0 GPA), Spring 2025 (4.0 GPA)"
+    title = "Fall 2024 (4.0 GPA), Spring 2025 (4.0 GPA), Fall 2025 (4.0 GPA), Spring 2026 (3.94 GPA)"
   
   [[entries.entries]]
   title = "King Constantine Award for exceptional service"

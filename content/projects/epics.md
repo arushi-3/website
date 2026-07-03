@@ -2,10 +2,12 @@
 date = '2025-10-30T11:40:58-04:00'
 draft = false
 title = 'Purdue EPICS - Shape-Sorter (Mailbox) Game'
-weight = 3
+weight = 5
 +++
 
-As a part of Purdue EPICS, a service-learning engineering project, my team and I built a shape-sorting game for the riders at Agape Therapeutic iding. 
+**Goal:** To build a sensory activity for children with specials needs to be played on horseback. 
+
+As a part of Purdue EPICS, a service-learning engineering project, my team and I built a shape-sorting game for the riders at Agape Therapeutic Riding. 
 
 {{< img src="files/Team-mailbox.jpeg" alt="Sketch" width="70%">}}
 
@@ -20,11 +22,14 @@ We named it "mailbox" because our initial CAD resembled one. Each unit would be 
 {{< img src="files/InitialCAD-mailbox.png" alt="Sketch" width="30%">}}
 
 After working on the preliminary design and CAD, we moved to the prototyping phase. For our prototype, we built a box with holes in the front piece and a door on the side to be able to take the pieces out. 
+- During this stage I did the CAD, and marked and cut the wood using the table saw. 
+- My teammates, used the router and Jig Saw to cut holes for the shapes. 
+- Together we fastened the box using screws, a drill and an impact drill
 
 {{< img src="files/Prototype1-mailbox.jpeg" alt="Sketch" width="40%">}}
 {{< img src="files/Prototype2-mailbox.png" alt="Sketch" width="40%">}}
 
-We got feedback from experts in the field, and adjusted the design to make the front panel removable. This would allow us to provide our community partner with new panel designs over the years and make it easier for the user to take the pieces out. We made another prototype to reflect these new ideas. The panels would be laser cut from acrylic. 
+We got feedback from experts in the field during our design review, and adjusted the design to make the front panel removable. This would allow us to provide our community partner with new panel designs over the years and make it easier for the user to take the pieces out. We made another prototype to reflect these new ideas. The panels would be laser cut from acrylic. 
 
 {{< img src="files/Prototype3-mailbox.jpg" alt="Sketch" width="40%">}}
 
@@ -33,6 +38,10 @@ Simultaneously, I started to work on the CAD designs for the pegs and 3D printed
 {{< img src="files/PegCAD-mailbox.png" alt="Sketch" width="40%">}}
 
 When we received the PLA printed parts, we quickly realized that they were not strong enough to handle drops from high heights, and it would take a lot of time and filament to manufacture 30 pieces. So, after a few decision matrices and conversations, we decided to use the CNC wood mill to make the pieces. 
+- I created the CAM and set up the toolpaths for the process 
+- I faced an issue of the wood piece moving during the milling process because I had not clamped it tightly enough. With not enough time left to come another day, I used the bandsaw to cut the cuboidal shaped pieces since the rest had been cut. 
+- I also painted the pieces and drilled holes for the eye screws. 
+- I chose to use eye screws because they were easy to grab for the children, and did not have any sharp edges (to prevent injury).  
 
 {{< img src="files/3Dprint-mailbox.png" alt="Sketch" width="40%">}}
 {{< img src="files/Pegs2-mailbox.jpeg" alt="Sketch" width="60%">}}
