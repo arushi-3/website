@@ -83,4 +83,4 @@ This project spanned the months of January to March 2026 and once we took videos
 
 Currently, it has been approved for IDETC-CIE 2026 conference where Sheeraz will be presenting our design! 
 
-{{< img src="research/team picture.jpeg" alt="Sketch" width="75%">}}
+{{< img src="research/team picture.jpeg" alt="Sketch" width="75%">}}x
