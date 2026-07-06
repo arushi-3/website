@@ -23,14 +23,14 @@
       <description>&lt;p&gt;This semester, I joined the Purdue ROV team. This student-led team builds an underwater robot that performs tasks to protect the ocean&amp;rsquo;s ecosystem. These tasks are stipulated by the MATE ROV competition, a yearly World Championship that we take part in over the summer.&lt;/p&gt;&#xA;&lt;p&gt;This year, the competition is in Newfoundland &amp;amp; Labrador, Canada, and to go with the theme of the location, our robot should be able to handle low temperatures in an ice tank, high water velocities in a flume tank, and saltwater in an offshore engineering basin.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Research 1</title>
+      <title>Multimodal Underwater Robot - MARS Lab</title>
       <link>http://localhost:1313/projects/research-1/</link>
       <pubDate>Fri, 03 Jul 2026 12:57:07 +0530</pubDate>
       <guid>http://localhost:1313/projects/research-1/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To design and build the spherical four-bar wing linkage mechanism for the tri-modal underwater robot (UR) for exploration of ice cavities.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/research/UR%20overiment%20annotated.png&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:75%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;In December 2025 I joined the MARS lab as an undergraduate researcher and started work on this project to build a low-cost underwater glider capable of extended mission in sub-ice ocean. Existing autonomous underwater vehicles (AUVs) are usually too large, power-intensive, and costly for deployment in such large and spatially constraints environments. This UR has drifting, gliding, and thrusting capabilities.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Desk Organizer</title>
+      <title>Purdue-Themed Desk Organizer</title>
       <link>http://localhost:1313/projects/desk-organizer/</link>
       <pubDate>Fri, 03 Jul 2026 12:57:21 +0530</pubDate>
       <guid>http://localhost:1313/projects/desk-organizer/</guid>
@@ -41,7 +41,7 @@
       <link>http://localhost:1313/projects/skateboard/</link>
       <pubDate>Sat, 12 Jul 2025 23:18:19 +0530</pubDate>
       <guid>http://localhost:1313/projects/skateboard/</guid>
-      <description>&lt;h4 id=&#34;summary-of-project&#34;&gt;Summary of project&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To build a prototype of an intelligent fork for pallet transportation to be used in warehouses and factories.&lt;/p&gt;&#xA;&lt;p&gt;I undertook this project in the summer of 2025, during my internship at ATI Motors. &amp;ldquo;Skateboard&amp;rdquo; was the nickname given to the project.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/files/Final-skateboard.jpg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:60%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;The skateboard’s key advantage over pallet movers and similar machines is its ability to move omnidirectionally and perform zero-radius turns. This increases positional accuracy and could potentially save time and space. It also uses an electronic differential rather than a mechanical one, which is more compact and precise.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To build a prototype of an intelligent fork for pallet transportation to be used in warehouses and factories.&lt;/p&gt;&#xA;&lt;p&gt;I undertook this project in the summer of 2025, during my internship at ATI Motors. &amp;ldquo;Skateboard&amp;rdquo; was the nickname given to the project.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/files/Final-skateboard.jpg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:60%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;The skateboard’s key advantage over pallet movers and similar machines is its ability to move omnidirectionally and perform zero-radius turns. This increases positional accuracy and could potentially save time and space. It also uses an electronic differential rather than a mechanical one, which is more compact and precise.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Purdue EPICS - Shape-Sorter (Mailbox) Game</title>

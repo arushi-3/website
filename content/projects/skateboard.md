@@ -5,8 +5,6 @@ title = 'Robot for Pallet Transportation (Skateboard)'
 weight = 4
 +++
 
-#### Summary of project
-
 **Goal:** To build a prototype of an intelligent fork for pallet transportation to be used in warehouses and factories. 
 
 I undertook this project in the summer of 2025, during my internship at ATI Motors. "Skateboard" was the nickname given to the project.

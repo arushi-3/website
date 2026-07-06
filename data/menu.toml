@@ -33,11 +33,11 @@ title = "Experiences"
     # [[entries.entries.entries]]
     # title = "[Jan 2025 - Present]"
 
-[[entries]]
-title = "Ongoing Projects"
+# [[entries]]
+# title = "Ongoing Projects"
 
-  [entries.post_list]
-  section = "current_projects"
+#   [entries.post_list]
+#   section = "current_projects"
 
 [[entries]]
 title = "Projects"
