@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Purdue ROV (Remotely Operated Underwater Vehicle)</title>
-      <link>http://localhost:1313/projects/rov-1/</link>
+      <link>http://localhost:1313/projects/rov/</link>
       <pubDate>Fri, 03 Jul 2026 12:55:40 +0530</pubDate>
-      <guid>http://localhost:1313/projects/rov-1/</guid>
+      <guid>http://localhost:1313/projects/rov/</guid>
       <description></description>
     </item>
     <item>
@@ -24,9 +24,9 @@
     </item>
     <item>
       <title>Multimodal Underwater Robot - MARS Lab</title>
-      <link>http://localhost:1313/projects/research-1/</link>
+      <link>http://localhost:1313/projects/research/</link>
       <pubDate>Fri, 03 Jul 2026 12:57:07 +0530</pubDate>
-      <guid>http://localhost:1313/projects/research-1/</guid>
+      <guid>http://localhost:1313/projects/research/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To design and build the spherical four-bar wing linkage mechanism for the tri-modal underwater robot (UR) for exploration of ice cavities.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/research/UR%20overiment%20annotated.png&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:75%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;In December 2025 I joined the MARS lab as an undergraduate researcher and started work on this project to build a low-cost underwater glider capable of extended mission in sub-ice ocean. Existing autonomous underwater vehicles (AUVs) are usually too large, power-intensive, and costly for deployment in such large and spatially constraints environments. This UR has drifting, gliding, and thrusting capabilities.&lt;/p&gt;</description>
     </item>
     <item>
@@ -34,7 +34,7 @@
       <link>http://localhost:1313/projects/desk-organizer/</link>
       <pubDate>Fri, 03 Jul 2026 12:57:21 +0530</pubDate>
       <guid>http://localhost:1313/projects/desk-organizer/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To build a desk organizer incorporating Purdue-themed elements as the final project for ME 264 (Intro to Manufacturing)&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/me264/final_product.jpeg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:75%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;As a part of this class, students are expected to work as pairs and design, manufacture and present a product satisfying the given specifications. These parameters were-&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Allowed materials = sheet metal, plywood (1/4&amp;quot;, 1/2&amp;quot;), and acrylic (1/4&amp;quot;)&lt;/li&gt;&#xA;&lt;li&gt;Must incorporate elements manufactured as a part of ME 264&#xA;&lt;ul&gt;&#xA;&lt;li&gt;These included a Manual Milled Hammer, CNC milled Purdue Engineering Fountain and nameplate, and a Soldered clock&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h4 id=&#34;hammer&#34;&gt;Hammer&lt;/h4&gt;&#xA;&lt;p&gt;First, given an instruction guide, I used a 1.25&amp;quot; aluminum hex stock (cut to 4&amp;quot; length) and a 1&amp;quot; diameter aluminum roud stock for the head and handle respectively. The machines used were: the milling machine, the lathe, the belt sander, the buffing/polishing wheel, and the hydraulic press.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To build a desk organizer incorporating Purdue-themed elements as the final project for ME 264 (Intro to Manufacturing)&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/me264/final_product.jpeg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:75%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;As a part of this class, students are expected to work as pairs to design, manufacture and present a product satisfying the given specifications. These parameters were-&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Allowed materials = sheet metal, plywood (1/4&amp;quot;, 1/2&amp;quot;), and acrylic (1/4&amp;quot;)&lt;/li&gt;&#xA;&lt;li&gt;Must incorporate elements manufactured as a part of ME 264&#xA;&lt;ul&gt;&#xA;&lt;li&gt;These included a Manual Milled Hammer, CNC milled Purdue Engineering Fountain and nameplate, and a Soldered clock&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h4 id=&#34;hammer&#34;&gt;Hammer&lt;/h4&gt;&#xA;&lt;p&gt;First, given an instruction guide, I used a 1.25&amp;quot; aluminum hex stock (cut to 4&amp;quot; length) and a 1&amp;quot; diameter aluminum roud stock for the head and handle respectively. The machines used were: the milling machine, the lathe, the belt sander, the buffing/polishing wheel, and the hydraulic press.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Robot for Pallet Transportation (Skateboard)</title>

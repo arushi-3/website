@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en-us"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <meta name="description" content="Goal: To design and build the spherical four-bar wing linkage mechanism for the tri-modal underwater robot (UR) for exploration of ice cavities.
+
+In December 2025 I joined the MARS lab as an undergraduate researcher and started work on this project to build a low-cost underwater glider capable of extended mission in sub-ice ocean. Existing autonomous underwater vehicles (AUVs) are usually too large, power-intensive, and costly for deployment in such large and spatially constraints environments. This UR has drifting, gliding, and thrusting capabilities.">  
+
+  <title>
+    
+      Multimodal Underwater Robot - MARS Lab
+    
+  </title>
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/" />
+  
+  
+  
+  <link rel="stylesheet" href="/css/main.900100e9dbee2d56c58fac8bb717037cae7e26a9c36c29d2ff587bdd65f0cbbe510b41d81a3bb234919cdfdc7550d786b2fab70c8fc507772d732fe097106d12.css" integrity="sha512-kAEA6dvuLVbFj6yLtxcDfK5&#43;JqnDbCnS/1h73WXwy75RC0HYGjuyNJGc39x1UNeGsvq3DI/FB3ctcy/glxBtEg==" />
+  
+</head>
+<body a="light">
+        <main class="page-content" aria-label="Content">
+            <div class="w">
+<a href="/">..</a>
+
+
+<article>
+    <h1>Multimodal Underwater Robot - MARS Lab</h1>
+
+    
+
+    <p><strong>Goal:</strong> To design and build the spherical four-bar wing linkage mechanism for the tri-modal underwater robot (UR) for exploration of ice cavities.</p>
+<img
+  src='/research/UR%20overiment%20annotated.png'
+  alt='Sketch'
+  style='width:75%;
+  '
+  loading="lazy"
+/>
+<p>In December 2025 I joined the MARS lab as an undergraduate researcher and started work on this project to build a low-cost underwater glider capable of extended mission in sub-ice ocean. Existing autonomous underwater vehicles (AUVs) are usually too large, power-intensive, and costly for deployment in such large and spatially constraints environments. This UR has drifting, gliding, and thrusting capabilities.</p>
+<p>The wing mechanism is adapted from a spherical four-bar mechanism. Fig. (a) shows the generic mechanism, while Fig. (b) presents our wing design.</p>
+<img
+  src='/research/fig_sh.png'
+  alt='Sketch'
+  style='width:75%;
+  '
+  loading="lazy"
+/>
+<p>Each of the revoluting axes meet at a center point O, which forms a sphere around which all linkages rotate. This allows the wing to be in each of the required positions (folded back during drifting and deployed forward and tilted downward during gliding and thrusting) with only one actuator. This satisfies the multimodal qualities of the robot in an efficient manner by drawing lesser power from the battery.</p>
+<p><strong>Parameters:</strong> I was given a rough CAD of the wings, and this brief by my PHD student supervisor, Sheeraz. Along with that I was told to check and verify the CAD and then print and test it.</p>
+<img
+  src='/research/wings_testing%201.png'
+  alt='Sketch'
+  style='width:75%;
+  '
+  loading="lazy"
+/>
+<h4 id="dry-testing">Dry Testing</h4>
+<p>For this first test, I 3D printed the parts in PLA and connected it to a digital Multi Servo Tester.</p>
+<p>Some issues I faced were-</p>
+<ol>
+<li>The revoluting axes did not meet a common point in the middle, hence the movement was not smooth.</li>
+<li>The wings were not hydrodynamic.</li>
+<li>The linkages broke easily.</li>
+<li>The whole wing was too large to be 3D printed in one go.</li>
+</ol>
+<p>My solutions were-</p>
+<ol>
+<li>I changed the CAD to make sure the linkage interfaces were flush with each other. I also verified that they all met at a single point</li>
+<li>I modified the design to include shoulder screws and bearings for smoother rotation.</li>
+<li>I used Onshape to make the wing the shape of a NCAA airfoil.</li>
+<li>I reprinted the linkages in Onyx, a stronger carbon fiber and nylon composite.</li>
+<li>I created a method for the wing to be printed in two parts, with an M2 screw in the middle.</li>
+</ol>
+<img
+  src='/research/shoulder%20screws.png'
+  alt='Sketch'
+  style='width:45%;
+  '
+  loading="lazy"
+/>
+<p>I conducted a few more dry tests without printing the full wing until I felt that the mechanism worked.</p>
+<p><img
+  src='/research/partial%20wing.png'
+  alt='Sketch'
+  style='width:75%;
+  '
+  loading="lazy"
+/>
+<div style="text-align: center;">
+  <video controls style="width:45%; display:inline-block;" playsinline>
+    <source src='/research/hand%20testing.mp4' type="video/mp4">
+    Sketch video
+  </video>
+</div>
+</p>
+<h4 id="specifics">Specifics</h4>
+<p>The actuator of the system was a 55kg servo motor with M3 x 0.5 fasteners and nuts. The shoulder scews had 4mm shoulder diameter with a 10 mm shoulder length. The two halves of the wings were connected with M2 screws and nuts.</p>
+<h4 id="pool-testing">Pool Testing</h4>
+<p>Then we had our first pool test!!</p>
+<img
+  src='/research/pool%20test%201.png'
+  alt='Sketch'
+  style='width:75%;
+  '
+  loading="lazy"
+/>
+<p>We learnt a few things from the pool test-</p>
+<ol>
+<li>The plastic placed directly on the output shaft gets worn out and eventually stops working</li>
+<li>The waterproof servo motor was not 100% waterproof to the depths we were taking the bot</li>
+<li>When the wings folded tilted downward too low, the torque of the motor ws not enough to pull it back into position.</li>
+</ol>
+<img
+  src='/research/UR%20in%20pool.jpeg'
+  alt='Sketch'
+  style='width:75%;
+  '
+  loading="lazy"
+/>
+<h4 id="iterating">Iterating</h4>
+<ol>
+<li>I looked into different servo horns to attach to the linkages. I settled on an Aluminum circular servo horn, because the teeth will not wear out easily. I adapted the the design to include this and made sure that the rotary joints still met at a single point.</li>
+<li>We did not have the time to build a servo enclosure so we used epoxy to waterproof the servo till a certain depth</li>
+<li>This challenge took a while to solve
+<ul>
+<li>Initially I added stoppers on either side of the output link to prevent the wing from move past the point of return. This worked, but then we needed the wing to stay in that position while in the water.</li>
+<li>I tested small magnets on the supper and the output link, but the magnets were not strong enough to hold the wing in its horizontal position.</li>
+<li>Finally, one of my teammates came up with the idea of using an elastic to hold it down. This worked!</li>
+</ul>
+</li>
+</ol>
+<h4 id="more-pool-testing">More Pool Testing!</h4>
+<p>Once we added these changes to the wing mechanism, we took the whole UR into the pool for multiple tests. This time we found no issues, and the wings worked as we expected.
+<div style="text-align: center;">
+  <video controls style="width:90%; display:inline-block;" playsinline>
+    <source src='/research/wings.mov' type="video/mp4">
+    Sketch video
+  </video>
+</div>
+</p>
+<h4 id="research-paper">Research Paper</h4>
+<p>This project spanned the months of January to March 2026 and once we took videos to validate our machine, I helped co-write the research paper that we submitted to ASME.</p>
+<p>Currently, it has been approved for IDETC-CIE 2026 conference in August where Sheeraz will be presenting our design!</p>
+<p><img
+  src='/research/team%20picture.jpeg'
+  alt='Sketch'
+  style='width:75%;
+  '
+  loading="lazy"
+/>x</p>
+
+</article>
+
+                
+    
+    
+        
+    
+
+
+            </div>
+        </main>
+    </body>
+</html>

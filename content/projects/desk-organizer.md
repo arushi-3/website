@@ -9,7 +9,7 @@ weight = 3
 
 {{< img src="me264/final_product.jpeg" alt="Sketch" width="75%">}}
 
-As a part of this class, students are expected to work as pairs and design, manufacture and present a product satisfying the given specifications. These parameters were- 
+As a part of this class, students are expected to work as pairs to design, manufacture and present a product satisfying the given specifications. These parameters were- 
 1. Allowed materials = sheet metal, plywood (1/4", 1/2"), and acrylic (1/4")
 2. Must incorporate elements manufactured as a part of ME 264 
     - These included a Manual Milled Hammer, CNC milled Purdue Engineering Fountain and nameplate, and a Soldered clock 
@@ -52,7 +52,7 @@ I was introduced to soldering throught the process of making a digital clock. We
 
 #### Other Manufacturing skills 
 
-Through the assembly of other products such a pencil holder and a phone holder, I also became proficient in working with sheet metal and woodworking. With sheet metal, I used a Hand seamer, Metal breake, Rivet gun, Spot Welder, and a hole punch. 
+Through the assembly of other products such a pencil holder and a phone holder, I also became proficient in working with sheet metal and woodworking. With sheet metal, I used a hand seamer, metal brake, rivet gun, spot welder, and a hole punch. 
 
 {{< img src="me264/sheet metal.jpeg" alt="Sketch" width="50%">}}
 {{< img src="me264/welding.jpeg" alt="Sketch" width="50%">}}
@@ -98,18 +98,17 @@ I also created a CAD, Bill of Materials (BOM), and Engineering drawings for all 
 
 #### Manufacturing 
 
-The base plate, train, and clock enclosure were manufactured by laser cutting sheet metal, plywood, and acrylic respectively. Along with this, I cut 1/8" Plywood using the Miter Saw to be used as the base of the name plate. 
+The base plate, train, and clock enclosure were manufactured by laser cutting sheet metal, plywood, and acrylic respectively. Along with this, we cut 1/8" Plywood using the Miter Saw to be used to mount the nameplate. 
 
 {{< img src="me264/exploded.png" alt="Sketch" width="80%">}}
 
+Overall, the desk organizer was assembled using super glue and wood screws. 
 
 #### Design Improvements 
 
 Looking back at my design, after using and testing it on my desk, I would make a few changes - 
 1. Vertically store papers - The current design hrizontally stored papers which meant that it took a lot more desk space.
-2. Change base material - Sheet metal is sharp, and after getting a few cuts during transport, I realizeed that I should not have made the base hseet metal. 
+2. Change base material - Sheet metal is sharp, and after getting a few cuts during transport, I realized that I should not have made the base sheet metal. 
 3. Vertically mount clock - To make it easier for user to see 
-4. Reduce size - I underestimated the size of the base in comparison to the space on the my desk. 
-
 
 
