@@ -81,6 +81,6 @@ Once we added these changes to the wing mechanism, we took the whole UR into the
 
 This project spanned the months of January to March 2026 and once we took videos to validate our machine, I helped co-write the research paper that we submitted to ASME. 
 
-Currently, it has been approved for IDETC-CIE 2026 conference where Sheeraz will be presenting our design! 
+Currently, it has been approved for IDETC-CIE 2026 conference in August where Sheeraz will be presenting our design! 
 
 {{< img src="research/team picture.jpeg" alt="Sketch" width="75%">}}x
