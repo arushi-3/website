@@ -13,7 +13,7 @@ theme = 'nostyle'
     min      = "0.41.0"
 
 [markup]
-  [markup.goldmark]
+  [markup.goldmark] 
     [markup.goldmark.parser]
       [markup.goldmark.parser.attribute]
         block = true
@@ -40,6 +40,8 @@ theme = 'nostyle'
     ordered    = false
 
 [params]
+  favicon = "favicon.ico"
+  
   [params.theme_config]
     appearance        = "light"
     back_home_text    = ".."

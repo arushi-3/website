@@ -69,8 +69,7 @@ title = "Awards"
   title = "King Constantine Award for exceptional service"
 
 # [[entries]]
-# title = "Resume"
-# url = "PDF/resume.pdf"
+# title = 'Look at my <a href="/PDF/resume.pdf">resume</a>!'
 
 [[entries]]
-title = 'Look at my <a href="/PDF/resume.pdf">resume</a>!'
+title = 'Look at my <a href="/PDF/resume.pdf" target="_blank" rel="noopener noreferrer">resume</a>!'
