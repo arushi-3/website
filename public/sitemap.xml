@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/projects/rov/</loc>
+    <lastmod>2026-07-03T12:55:40+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/current_projects/rov/</loc>
     <lastmod>2025-11-03T00:21:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/research/</loc>
+    <lastmod>2026-07-03T12:57:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/desk-organizer/</loc>
+    <lastmod>2026-07-03T12:57:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/skateboard/</loc>
     <lastmod>2025-07-12T23:18:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/travel-chessboard/</loc>
-    <lastmod>2025-07-13T09:50:34+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/epics/</loc>
     <lastmod>2025-10-30T11:40:58-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/travel-chessboard/</loc>
+    <lastmod>2025-07-13T09:50:34+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2026-07-03T12:57:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/rov-1/</loc>
-    <lastmod>2026-07-03T12:55:40+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/current_projects/</loc>
     <lastmod>2025-11-03T01:09:10-05:00</lastmod>
