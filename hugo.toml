@@ -40,8 +40,8 @@ theme = 'nostyle'
     ordered    = false
 
 [params]
-  favicon = "favicon.ico"
-  
+  favicon = "/favicon.ico"
+
   [params.theme_config]
     appearance        = "light"
     back_home_text    = ".."

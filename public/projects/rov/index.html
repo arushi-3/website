@@ -14,8 +14,8 @@ The 2026 competition, held in Newfoundland &amp; Labrador, Canada, requires our 
     
   </title>
 
+  <link rel="icon" href="/favicon.ico" sizes="any">
   
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
   
   
   
@@ -44,6 +44,113 @@ The 2026 competition, held in Newfoundland &amp; Labrador, Canada, requires our 
 />
 <p>The 2026 competition, held in Newfoundland &amp; Labrador, Canada, requires our ROV to operate in low-temperature ice tanks, high-velocity flume tanks, and saltwater offshore engineering basins so we had to design our ROV with these conditions in mind.</p>
 <h4 id="prerequisites">Prerequisites</h4>
+<ol>
+<li>The interface between the carrier plate and hat must be waterproof
+<ul>
+<li>This is done by incorporating an O-ring and a groove</li>
+</ul>
+</li>
+<li>Carrier Plate should be Anodized Aluminum</li>
+<li>The top hat needs to transparent, so the team leads decided that it should be SLA printed in <a href="https://formlabs.com/global/products/clear-resin/">Formlabs Clear Resin</a></li>
+<li>The enclosure must be hydrodynamic, since it would protrude up out of the frame</li>
+<li>Include heatsinks and thermal pads for heat management of the Raspberry Pi and other boards</li>
+</ol>
+<h4 id="design">Design</h4>
+<p>Previous years designs had an aluminum top hat and an aluminum carrier plate. We were retaining a similar design for the latter, only modifying the scaffolding for the new elecronics stack.</p>
+<p>I worked with a team member, Lauren, on the enclosure. She made the 3D model for the plate and I worked on the top hat.</p>
+<p>My initial design features for the hat were-</p>
+<ol>
+<li>Rounded corners and slanted sides</li>
+<li>Names of all team members embossed on the
+<ul>
+<li>I chose to emboss instead of engrave so that the sturctural integrity doesn&rsquo;t get affected</li>
+</ul>
+</li>
+<li>Increased screws and reduced height (compared to Aluminum hat)</li>
+</ol>
+<h4 id="iteration">Iteration</h4>
+<img
+  src='/rov/Assembly1-rov.png'
+  alt='Sketch'
+  style='width:70%;
+  '
+  loading="lazy"
+/>
+<p>The above image shows one of my initial designs for the top hat.
+Dimensions were -</p>
+<ol>
+<li>Length: 10.7 in</li>
+<li>Width: 8.5 in</li>
+<li>Height: 5.5 in</li>
+</ol>
+<p>I got feedback during our team&rsquo;s annual design review with alumni and team leads. They recommended reducing the draft (angle), decreasing the height, and increasing the fillets around the corners. I made these changes to the design.</p>
+<img
+  src='/rov/final-design.png'
+  alt='Sketch'
+  style='width:70%;
+  '
+  loading="lazy"
+/>
+<p>I also conducted FEA (finite element analysis) at 7.5m, to validate the thickness of the vessel.</p>
+<img
+  src='/rov/fea.png'
+  alt='Sketch'
+  style='width:70%;
+  '
+  loading="lazy"
+/>
+<p>The final thickness was 0.26 in, and final height was 4.8 in.</p>
+<h4 id="manufacturing">Manufacturing</h4>
+<p>Under usual circumstances, I would SLA print this on campus at Bechtel Innovation Design Center. However, the Form 4L was out-of-order and so I asked an Alumni working at Formlabs to print it for the team and mail it to us.</p>
+<p>Around the same time, Lauren finished carrier plate design and we needed to CNC Manufacture it on the Haas VF-4 Mill. I created the CAM on Autodesk Fusion.</p>
+<img
+  src='/rov/CAM.png'
+  alt='Sketch'
+  style='width:70%;
+  '
+  loading="lazy"
+/>
+<p>During the CAM process we faced a few issues-</p>
+<ol>
+<li>The tool hit the tool clamp and broke</li>
+<li>Some of the toolpaths were tiem consuming, and so we had to finish the process over multiple days</li>
+</ol>
+<p><img
+  src='/rov/CAM1.jpeg'
+  alt='Sketch'
+  style='width:65%;
+  '
+  loading="lazy"
+/>
+<img
+  src='/rov/plate.jpeg'
+  alt='Sketch'
+  style='width:65%;
+  '
+  loading="lazy"
+/></p>
+<h4 id="assembly">Assembly</h4>
+<p>Once we recieved the top hat, we tested the interface and looked like it would work!</p>
+<img
+  src='/rov/hatplate.jpeg'
+  alt='Sketch'
+  style='width:65%;
+  '
+  loading="lazy"
+/>
+<p>However, upon closer look there were other issues-</p>
+<ol>
+<li>The resin had warped, and the bottom was not flat and the overall size was smaller</li>
+<li>The o-ring groove on the carrier plate was also not completely plate, so the interface was not waterproof</li>
+</ol>
+<p>We tried hard to fix these issues.</p>
+<ol>
+<li>I tried to sand the hat down to size, but it would not close properly.</li>
+<li>Some other team members started the process of remanufacturing the plate</li>
+<li>As backup we also bought an off-the-shelf enclosure <a href="https://www.polycase.com/zq-100802#ZQ-100802-95">Polycase</a> and drilled connector holes into it.</li>
+</ol>
+<h4 id="conclusion">Conclusion</h4>
+<p>Ultimately, due to these issues we ended up using the Polycase enclosure. While this was not the most satisfying end to months of our hard work, I was made Structures Lead of Purdue ROV for the 2026-27 season. To prevent such issues from happening again, I started planning and designing along with the rest of the team over the summer.</p>
 
 </article>
 
