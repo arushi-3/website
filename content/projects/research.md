@@ -83,4 +83,4 @@ This project spanned the months of January to March 2026 and once we took videos
 
 Currently, the paper has been approved for [IDETC-CIE 2026](https://idetc.secure-platform.com/a/solicitations/280/sessiongallery/24184/application/192073) conference in August where Sheeraz will be presenting our design! 
  
-{{< img src="research/team picture.jpeg" alt="Sketch" width="75%">}}x
+{{< img src="research/team picture.jpeg" alt="Sketch" width="75%">}}
