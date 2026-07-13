@@ -4,6 +4,7 @@ draft = false
 title = 'Robot for Pallet Transportation (Skateboard)'
 weight = 4
 +++
+*May 2025 - August 2025*
 
 **Goal:** To build a prototype of an intelligent fork for pallet transportation to be used in warehouses and factories. 
 
@@ -84,4 +85,6 @@ With the design approved by the company CEO, I moved on to getting all parts man
 
 {{< img src="files/Final3-skateboard.jpg" alt="Sketch" width="60%">}}
 
-This was the outcome of three months of work at ATI Motors, and the company plans to continue developing my work into an actual product. I truly enjoyed the learning process, and it was gratifying to see the final product come to life. I look forward to taking on more challenging and interesting projects like this!
+Overall, I was able to successfully validate the idea with a working prototype. Although I wasn't able to fully build and test the metal version within the internship, the company plans to continue developing my work into an actual product. 
+
+I truly enjoyed the learning process, and it was gratifying to see the final product come to life. I look forward to taking on more challenging and interesting projects like this in the future!

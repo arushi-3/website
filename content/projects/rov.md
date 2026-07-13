@@ -5,6 +5,8 @@ title = 'Purdue ROV (Remotely Operated Underwater Vehicle)'
 weight = 1
 +++
 
+*August 2025 - Present*
+
 **Goal:** To design and manufacture the electronics enclosure for the ROV, ensuring structural strength, and reliable waterproofing. 
 
 In August 2025, I joined the Purdue ROV (Remotely Operated Underwater Vehicle) team. This student-led team designs and builds underwater robots to compete in the annual MATE ROV World Championship. The tasks that this robot undertakes is stipulated by the competition and usually follow the theme of ocean ecosystem protection. 
@@ -13,7 +15,7 @@ In August 2025, I joined the Purdue ROV (Remotely Operated Underwater Vehicle) t
 
 The 2026 competition, held in Newfoundland & Labrador, Canada, requires our ROV to operate in low-temperature ice tanks, high-velocity flume tanks, and saltwater offshore engineering basins so we had to design our ROV with these conditions in mind. 
 
-#### Prerequisites 
+#### Prerequisites for the Electronics Enclosure
 
 1. The interface between the carrier plate and hat must be waterproof 
     - This is done by incorporating an O-ring and a groove
@@ -65,7 +67,8 @@ Around the same time, Lauren finished carrier plate design and we needed to CNC 
 
 During the CAM process we faced a few issues- 
 1. The tool hit the tool clamp and broke 
-2. Some of the toolpaths were tiem consuming, and so we had to finish the process over multiple days
+2. Some of the toolpaths were time consuming, and so we had to finish the process over multiple days
+    - This meant that probing the part was extremely important, to ensure high manufacturing precision
 
 {{< img src="rov/CAM1.jpeg" alt="Sketch" width="65%">}}
 {{< img src="rov/plate.jpeg" alt="Sketch" width="65%">}}
@@ -77,13 +80,13 @@ Once we recieved the top hat, we tested the interface and looked like it would w
 {{< img src="rov/hatplate.jpeg" alt="Sketch" width="65%">}}
 
 However, upon closer look there were other issues- 
-1. The resin had warped, and the bottom was not flat and the overall size was smaller 
-2. The o-ring groove on the carrier plate was also not completely plate, so the interface was not waterproof 
+1. The resin had warped, the bottom was not flat, and the overall size was smaller 
+2. The o-ring groove on the carrier plate was also not completely flat, so the interface was not waterproof 
 
 We tried hard to fix these issues. 
 1. I tried to sand the hat down to size, but it would not close properly. 
 2. Some other team members started the process of remanufacturing the plate 
-3. As backup we also bought an off-the-shelf enclosure [Polycase](https://www.polycase.com/zq-100802#ZQ-100802-95) and drilled connector holes into it. 
+3. As backup we also bought an off-the-shelf enclosure [(Polycase)](https://www.polycase.com/zq-100802#ZQ-100802-95) and drilled connector holes into it. 
 
 #### Conclusion 
 

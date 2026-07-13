@@ -5,6 +5,8 @@ title = 'Purdue EPICS - Shape-Sorter (Mailbox) Game'
 weight = 5
 +++
 
+*August 2024 – May 2025*
+ 
 **Goal:** To build a sensory activity for children with specials needs to be played on horseback. 
 
 As a part of Purdue EPICS, a service-learning engineering project, my team and I built a shape-sorting game for the riders at Agape Therapeutic Riding. 

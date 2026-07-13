@@ -4,8 +4,9 @@ draft = false
 title = 'Purdue-Themed Desk Organizer'
 weight = 3
 +++
+*August 2025 - December 2025*
 
-**Goal:** To build a desk organizer incorporating Purdue-themed elements as the final project for ME 264 (Intro to Manufacturing)
+**Goal:** To build a desk organizer incorporating Purdue-themed elements as the final project for ME 264 (Intro to Manufacturing).
 
 {{< img src="me264/final_product.jpeg" alt="Sketch" width="75%">}}
 

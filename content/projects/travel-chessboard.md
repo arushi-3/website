@@ -5,6 +5,8 @@ title = 'Travel Chessboard'
 weight = 6
 +++
 
+*April 2023 - October 2023*
+
 **Summary:** In high school, for my Design and Technology AS Level coursework project, I ideated, designed and built a travel chessboard out of wood, metal, clay and magnets. 
 
 {{< img src="files/Sketches-chessboard.jpg" alt="Sketch" >}}

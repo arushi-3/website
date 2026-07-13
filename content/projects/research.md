@@ -5,19 +5,21 @@ title = 'Multimodal Underwater Robot - MARS Lab'
 weight = 2
 +++
 
+*December 2025 - May 2026*
+
 **Goal:** To design and build the spherical four-bar wing linkage mechanism for the tri-modal underwater robot (UR) for exploration of ice cavities. 
 
 {{< img src="research/UR overiment annotated.png" alt="Sketch" width="75%">}}
 
 In December 2025, I joined the MARS lab as an undergraduate researcher to work on a low-cost underwater glider capable of extended mission in sub-ice ocean. Existing autonomous underwater vehicles (AUVs) are usually too large, power-intensive, and costly for deployment in such large and spatially constraints environments. This UR has drifting, gliding, and thrusting capabilities. 
 
-The wing mechanism is adapted from a spherical four-bar mechanism. Fig. (a) shows the generic mechanism, while Fig. (b) presents our wing design. 
+My focus area, the wing mechanism, is adapted from a spherical four-bar mechanism. Fig. (a) shows the generic mechanism, while Fig. (b) presents our wing design. 
 
 {{< img src="research/fig_sh.png" alt="Sketch" width="75%">}}
 
 Each of the revoluting axes meet at a center point O, which forms a sphere around which all linkages rotate. This allows the wing to be in each of the required positions (folded back during drifting and deployed forward and tilted downward during gliding and thrusting) with only one actuator. This satisfies the multimodal qualities of the robot in an efficient manner by drawing lesser power from the battery. 
 
-**Parameters:** I was given a rough CAD of the wings, and this brief by my PHD student supervisor, Sheeraz. Along with that I was told to check and verify the CAD and then print and test it. 
+**Parameters:** I was given a rough CAD of the wings, and a brief explanation of the mechanism by my PHD student supervisor, Sheeraz. Along with that I was told to check and verify the CAD and then print and test it. 
 
 {{< img src="research/wings_testing 1.png" alt="Sketch" width="75%">}}
 
@@ -79,7 +81,7 @@ Once we added these changes to the wing mechanism, we took the whole UR into the
 
 #### Research Paper 
 
-This project spanned the months of January to March 2026 and once we took videos to validate our machine, I co-wrote the research paper that we submitted to ASME. 
+This project spanned the months of January to March 2026 and after we completed validation, I co-wrote the research paper that we submitted to ASME. 
 
 Currently, the paper has been approved for [IDETC-CIE 2026](https://idetc.secure-platform.com/a/solicitations/280/sessiongallery/24184/application/192073) conference in August where Sheeraz will be presenting our design! 
  
