@@ -1,7 +1,7 @@
 +++
 date = '2025-10-30T11:40:58-04:00'
 draft = false
-title = 'Purdue EPICS - Shape-Sorter (Mailbox) Game'
+title = 'Shape-Sorter (Mailbox) Game - Purdue EPICS'
 weight = 5
 +++
 

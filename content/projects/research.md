@@ -1,7 +1,7 @@
 +++
 date = '2026-07-03T12:57:07+05:30'
 draft = false
-title = 'Multimodal Underwater Robot - MARS Lab'
+title = 'Spherical Four-Bar Wing Mechanism - MARS Lab'
 weight = 2
 +++
 
@@ -11,7 +11,7 @@ weight = 2
 
 {{< img src="research/UR overiment annotated.png" alt="Sketch" width="75%">}}
 
-In December 2025, I joined the MARS lab as an undergraduate researcher to work on a low-cost underwater glider capable of extended mission in sub-ice ocean. Existing autonomous underwater vehicles (AUVs) are usually too large, power-intensive, and costly for deployment in such large and spatially constraints environments. This UR has drifting, gliding, and thrusting capabilities. 
+In December 2025, I joined the MARS (Mechanisms And Robotic Systems) Lab as an undergraduate researcher to work on a low-cost underwater glider capable of extended mission in sub-ice ocean. Existing autonomous underwater vehicles (AUVs) are usually too large, power-intensive, and costly for deployment in such large and spatially constraints environments. This UR has drifting, gliding, and thrusting capabilities. 
 
 My focus area, the wing mechanism, is adapted from a spherical four-bar mechanism. Fig. (a) shows the generic mechanism, while Fig. (b) presents our wing design. 
 

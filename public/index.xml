@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 03 Jul 2026 12:57:21 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Purdue ROV (Remotely Operated Underwater Vehicle)</title>
+      <title>Electronics Enclosure - Purdue ROV</title>
       <link>http://localhost:1313/projects/rov/</link>
       <pubDate>Fri, 03 Jul 2026 12:55:40 +0530</pubDate>
       <guid>http://localhost:1313/projects/rov/</guid>
-      <description>&lt;p&gt;&lt;em&gt;August 2025 - Present&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To design and manufacture the electronics enclosure for the ROV, ensuring structural strength, and reliable waterproofing.&lt;/p&gt;&#xA;&lt;p&gt;In August 2025, I joined the Purdue ROV (Remotely Operated Underwater Vehicle) team. This student-led team designs and builds underwater robots to compete in the annual MATE ROV World Championship. The tasks that this robot undertakes is stipulated by the competition and usually follow the theme of ocean ecosystem protection.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;August 2025 - Present&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To design and manufacture the electronics enclosure for the ROV (Remotely Operated Underwater Vehicle), ensuring structural strength, and reliable waterproofing.&lt;/p&gt;&#xA;&lt;p&gt;In August 2025, I joined the Purdue ROV (Remotely Operated Underwater Vehicle) team. This student-led team designs and builds underwater robots to compete in the annual MATE ROV World Championship. The tasks that this robot undertakes is stipulated by the competition and usually follow the theme of ocean ecosystem protection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Purdue ROV (Remotely Operated Underwater Vehicle)</title>
@@ -23,28 +23,28 @@
       <description>&lt;p&gt;This semester, I joined the Purdue ROV team. This student-led team builds an underwater robot that performs tasks to protect the ocean&amp;rsquo;s ecosystem. These tasks are stipulated by the MATE ROV competition, a yearly World Championship that we take part in over the summer.&lt;/p&gt;&#xA;&lt;p&gt;This year, the competition is in Newfoundland &amp;amp; Labrador, Canada, and to go with the theme of the location, our robot should be able to handle low temperatures in an ice tank, high water velocities in a flume tank, and saltwater in an offshore engineering basin.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Multimodal Underwater Robot - MARS Lab</title>
+      <title>Spherical Four-Bar Wing Mechanism - MARS Lab</title>
       <link>http://localhost:1313/projects/research/</link>
       <pubDate>Fri, 03 Jul 2026 12:57:07 +0530</pubDate>
       <guid>http://localhost:1313/projects/research/</guid>
-      <description>&lt;p&gt;&lt;em&gt;December 2025 - May 2026&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To design and build the spherical four-bar wing linkage mechanism for the tri-modal underwater robot (UR) for exploration of ice cavities.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/research/UR%20overiment%20annotated.png&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:75%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;In December 2025, I joined the MARS lab as an undergraduate researcher to work on a low-cost underwater glider capable of extended mission in sub-ice ocean. Existing autonomous underwater vehicles (AUVs) are usually too large, power-intensive, and costly for deployment in such large and spatially constraints environments. This UR has drifting, gliding, and thrusting capabilities.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;December 2025 - May 2026&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To design and build the spherical four-bar wing linkage mechanism for the tri-modal underwater robot (UR) for exploration of ice cavities.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/research/UR%20overiment%20annotated.png&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:75%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;In December 2025, I joined the MARS (Mechanisms And Robotic Systems) Lab as an undergraduate researcher to work on a low-cost underwater glider capable of extended mission in sub-ice ocean. Existing autonomous underwater vehicles (AUVs) are usually too large, power-intensive, and costly for deployment in such large and spatially constraints environments. This UR has drifting, gliding, and thrusting capabilities.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Purdue-Themed Desk Organizer</title>
+      <title>Purdue-Themed Desk Organizer - ME 264</title>
       <link>http://localhost:1313/projects/desk-organizer/</link>
       <pubDate>Fri, 03 Jul 2026 12:57:21 +0530</pubDate>
       <guid>http://localhost:1313/projects/desk-organizer/</guid>
       <description>&lt;p&gt;&lt;em&gt;August 2025 - December 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To build a desk organizer incorporating Purdue-themed elements as the final project for ME 264 (Intro to Manufacturing).&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/me264/final_product.jpeg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:75%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;As a part of this class, students are expected to work as pairs to design, manufacture and present a product satisfying the given specifications. These parameters were-&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Allowed materials = sheet metal, plywood (1/4&amp;quot;, 1/2&amp;quot;), and acrylic (1/4&amp;quot;)&lt;/li&gt;&#xA;&lt;li&gt;Must incorporate elements manufactured as a part of ME 264&#xA;&lt;ul&gt;&#xA;&lt;li&gt;These included a Manual Milled Hammer, CNC milled Purdue Engineering Fountain and nameplate, and a Soldered clock&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h4 id=&#34;hammer&#34;&gt;Hammer&lt;/h4&gt;&#xA;&lt;p&gt;First, given an instruction guide, I used a 1.25&amp;quot; aluminum hex stock (cut to 4&amp;quot; length) and a 1&amp;quot; diameter aluminum roud stock for the head and handle respectively. The machines used were: the milling machine, the lathe, the belt sander, the buffing/polishing wheel, and the hydraulic press.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Robot for Pallet Transportation (Skateboard)</title>
+      <title>Robot for Pallet Transportation - ATI Motors</title>
       <link>http://localhost:1313/projects/skateboard/</link>
       <pubDate>Sat, 12 Jul 2025 23:18:19 +0530</pubDate>
       <guid>http://localhost:1313/projects/skateboard/</guid>
       <description>&lt;p&gt;&lt;em&gt;May 2025 - August 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To build a prototype of an intelligent fork for pallet transportation to be used in warehouses and factories.&lt;/p&gt;&#xA;&lt;p&gt;I undertook this project in the summer of 2025, during my internship at ATI Motors. &amp;ldquo;Skateboard&amp;rdquo; was the nickname given to the project.&lt;/p&gt;&#xA;&lt;img&#xA;  src=&#39;http://localhost:1313/files/Final-skateboard.jpg&#39;&#xA;  alt=&#39;Sketch&#39;&#xA;  style=&#39;width:60%;&#xA;  &#39;&#xA;  loading=&#34;lazy&#34;&#xA;/&gt;&#xA;&lt;p&gt;The skateboard’s key advantage over pallet movers and similar machines is its ability to move omnidirectionally and perform zero-radius turns. This increases positional accuracy and could potentially save time and space. It also uses an electronic differential rather than a mechanical one, which is more compact and precise.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Purdue EPICS - Shape-Sorter (Mailbox) Game</title>
+      <title>Shape-Sorter (Mailbox) Game - Purdue EPICS</title>
       <link>http://localhost:1313/projects/epics/</link>
       <pubDate>Thu, 30 Oct 2025 11:40:58 -0400</pubDate>
       <guid>http://localhost:1313/projects/epics/</guid>

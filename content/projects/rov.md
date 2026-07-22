@@ -1,13 +1,13 @@
 +++
 date = '2026-07-03T12:55:40+05:30'
 draft = false
-title = 'Purdue ROV (Remotely Operated Underwater Vehicle)'
+title = 'Electronics Enclosure - Purdue ROV'
 weight = 1
 +++
 
 *August 2025 - Present*
 
-**Goal:** To design and manufacture the electronics enclosure for the ROV, ensuring structural strength, and reliable waterproofing. 
+**Goal:** To design and manufacture the electronics enclosure for the ROV (Remotely Operated Underwater Vehicle), ensuring structural strength, and reliable waterproofing. 
 
 In August 2025, I joined the Purdue ROV (Remotely Operated Underwater Vehicle) team. This student-led team designs and builds underwater robots to compete in the annual MATE ROV World Championship. The tasks that this robot undertakes is stipulated by the competition and usually follow the theme of ocean ecosystem protection. 
 

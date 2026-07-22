@@ -1,7 +1,7 @@
 +++
 date = '2026-07-03T12:57:21+05:30'
 draft = false
-title = 'Purdue-Themed Desk Organizer'
+title = 'Purdue-Themed Desk Organizer - ME 264'
 weight = 3
 +++
 *August 2025 - December 2025*

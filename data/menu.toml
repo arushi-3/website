@@ -4,17 +4,17 @@ title = "Experiences"
     # title = "[May 2025 - Aug 2025]"
 
   [[entries.entries]]
-  title = "Structures Lead in Purdue IEEE ROV" 
+  title = "Structures Lead, Purdue IEEE ROV (Remotely Operated Underwater Vehicle)" 
     # [[entries.entries.entries]]
     # title = "[Aug. 2025 - Present]"
 
   [[entries.entries]]
-  title = "Undergraduate Researcher in MARS Lab" 
+  title = "Undergraduate Researcher, MARS Lab" 
     # [[entries.entries.entries]]
     # title = "[Nov. 2025 - Present]"
 
   [[entries.entries]]
-  title = "Mechanical intern at ATI Motors" 
+  title = "Mechanical Intern, ATI Motors" 
     # [[entries.entries.entries]]
     # title = "[May 2025 - Aug. 2025]"
 
@@ -24,14 +24,14 @@ title = "Experiences"
     # title = "[Jan 2025 - Dec. 2025]"
 
   [[entries.entries]]
-  title = "Design Lead for Purdue EPICS"
+  title = "Design Lead, Purdue EPICS (Engineering Projects in Community Service)"
     # [[entries.entries.entries]]
     # title = "[Aug 2024 - May 2025]"
 
   [[entries.entries]]
-  title = "Treasurer of Purdue Swim Club"
-    # [[entries.entries.entries]]
-    # title = "[Jan 2025 - Present]"
+  title = "Treasurer, Purdue Swim Club"
+      # [[entries.entries.entries]]
+      # title = "[Jan 2025 - Present]"
 
 # [[entries]]
 # title = "Ongoing Projects"
@@ -73,3 +73,10 @@ title = "Awards"
 
 [[entries]]
 title = 'Look at my <a href="/PDF/resume.pdf" target="_blank" rel="noopener noreferrer">resume</a>!'
+
+[[entries]]
+title = 'Contact me!'
+  [[entries.entries]]
+  title = "Email: <a href='mailto:arushipatel354@gmail.com'>arushipatel354@gmail.com</a>"
+  [[entries.entries]]
+  title = "Phone no.: <a href='tel:+17654098635'>+1 (765) 409-8635</a>"

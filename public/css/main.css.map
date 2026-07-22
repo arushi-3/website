@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/arushi/code/website",
+	"sourceRoot": "/users/arushi/code/website",
 	"sources": [
 		"themes/nostyle/assets/css/main.scss"
 	],
